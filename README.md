@@ -3,13 +3,14 @@
 Aplicativo Android desenvolvido na disciplina de **Programação para Dispositivos Móveis (PDM)**
 
 ---
+
 ## Descrição
 
 O app permite classificar a **faixa etária** de uma pessoa a partir da idade informada. Ao clicar no botão, o resultado é exibido na tela indicando se a pessoa é criança, adolescente ou adulto.
 
 ---
 
-##Funcionalidades
+## Funcionalidades
 
 - Entrada da idade pelo usuário
 - Classificação automática da faixa etária conforme a tabela abaixo:
@@ -21,6 +22,7 @@ O app permite classificar a **faixa etária** de uma pessoa a partir da idade in
 | 18 anos ou mais | Adulto |
 
 ---
+
 ## Estrutura do projeto
 
 ```
@@ -35,6 +37,7 @@ app/
 ```
 
 ---
+
 ## Como executar
 
 1. Clone este repositório
