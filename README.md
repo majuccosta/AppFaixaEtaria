@@ -1,8 +1,8 @@
-# 📱 App Classificador de Faixa Etária — Android
+# App Classificador de Faixa Etária — Android
 
 Aplicativo Android desenvolvido na disciplina de **Programação para Dispositivos Móveis (PDM)**
----
 
+---
 ## Descrição
 
 O app permite classificar a **faixa etária** de uma pessoa a partir da idade informada. Ao clicar no botão, o resultado é exibido na tela indicando se a pessoa é criança, adolescente ou adulto.
@@ -21,7 +21,7 @@ O app permite classificar a **faixa etária** de uma pessoa a partir da idade in
 | 18 anos ou mais | Adulto |
 
 ---
-##Estrutura do projeto
+## Estrutura do projeto
 
 ```
 app/
@@ -35,7 +35,7 @@ app/
 ```
 
 ---
-##Como executar
+## Como executar
 
 1. Clone este repositório
 2. Abra o projeto no **Android Studio**
