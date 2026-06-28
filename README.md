@@ -1,4 +1,4 @@
-# App Classificador de Faixa Etária — Android
+# App Classificador de Faixa Etária — Android 
 
 Aplicativo Android desenvolvido na disciplina de **Programação para Dispositivos Móveis (PDM)**
 
